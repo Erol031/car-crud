@@ -1,7 +1,7 @@
-package com.tungol.car.demo.service;
+package com.canilao.car.service;
 
-import com.tungol.car.demo.model.Car;
-import com.tungol.car.demo.repository.CarRepository;
+import com.canilao.car.model.Car;
+import com.canilao.car.repository.CarRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

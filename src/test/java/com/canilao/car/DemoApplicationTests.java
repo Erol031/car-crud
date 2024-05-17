@@ -1,4 +1,4 @@
-package com.tungol.car.demo;
+package com.canilao.car;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

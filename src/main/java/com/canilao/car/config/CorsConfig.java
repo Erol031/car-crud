@@ -1,4 +1,4 @@
-package com.tungol.car.demo.config;
+package com.canilao.car.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

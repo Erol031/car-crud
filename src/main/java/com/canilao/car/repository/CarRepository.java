@@ -1,5 +1,5 @@
-package com.tungol.car.demo.repository;
-import com.tungol.car.demo.model.Car;
+package com.canilao.car.repository;
+import com.canilao.car.model.Car;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

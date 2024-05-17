@@ -1,7 +1,7 @@
-package com.tungol.car.demo.controller;
+package com.canilao.car.controller;
 
-import com.tungol.car.demo.model.Car;
-import com.tungol.car.demo.service.CarService;
+import com.canilao.car.model.Car;
+import com.canilao.car.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

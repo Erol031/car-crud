@@ -1,4 +1,4 @@
-package com.tungol.car.demo.model;
+package com.canilao.car.model;
 
 import lombok.Data;
 import javax.persistence.Entity;
